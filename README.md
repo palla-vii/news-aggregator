@@ -1,4 +1,4 @@
- 📰 News Aggregator
+### 📰 News Aggregator
 
 A **MERN stack** news aggregator application that provides users with the latest news from multiple sources in one place.  
 The app features user authentication, clean UI, and seamless browsing of categorized news articles.
