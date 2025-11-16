@@ -5,22 +5,22 @@ The app features user authentication, clean UI, and seamless browsing of categor
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 - **Frontend:** [News Aggregator Frontend](https://news-aggregator-khaki.vercel.app)  
 - **Backend:** [News Aggregator Backend](https://news-aggregator-q7em.onrender.com)
 
 ---
 
 ## ✨ Features
-- 🔐 **User Authentication** – Sign up, login, and secure session management.  
-- 📰 **Aggregated News Feed** – Fetches news from multiple sources.  
-- 📂 **Categories** – Browse news by topics (e.g., Tech, Sports, Business, etc.).  
-- 📱 **Responsive Design** – Works smoothly across desktop and mobile devices.  
-- ⚡ **Fast & Scalable** – Optimized using React, Express, MongoDB, and Node.js.  
+- **User Authentication** – Sign up, login, and secure session management.  
+- **Aggregated News Feed** – Fetches news from multiple sources.  
+- **Categories** – Browse news by topics (e.g., Tech, Sports, Business, etc.).  
+- **Responsive Design** – Works smoothly across desktop and mobile devices.  
+- **Fast & Scalable** – Optimized using React, Express, MongoDB, and Node.js.  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Frontend:**  
 - React.js  
 - Tailwind CSS (for styling)  
@@ -85,7 +85,7 @@ news-aggregator/
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 For the backend, create a `.env` file in `server/` with:
 
@@ -111,6 +111,6 @@ This project is licensed under the **MIT License**.
 
 ## 👩‍💻 Author
 
-Developed with ❤️ by [Pallavi](https://github.com/palla-vii)
+Developed by [Pallavi](https://github.com/palla-vii)
 
 ```
