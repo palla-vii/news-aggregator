@@ -1,4 +1,4 @@
-### 📰 News Aggregator
+## News Aggregator
 
 A **MERN stack** news aggregator application that provides users with the latest news from multiple sources in one place.  
 The app features user authentication, clean UI, and seamless browsing of categorized news articles.
@@ -60,7 +60,7 @@ news-aggregator/
    ```bash
    git clone https://github.com/palla-vii/news-aggregator.git
    cd news-aggregator
-````
+   ```
 
 2. **Setup Backend**
 
@@ -80,9 +80,7 @@ news-aggregator/
    npm install
    npm start
    ```
-
-4. Visit app at **[http://localhost:3000](http://localhost:3000)**
-
+   
 ---
 
 ## Environment Variables
@@ -113,4 +111,4 @@ This project is licensed under the **MIT License**.
 
 Developed by [Pallavi](https://github.com/palla-vii)
 
-```
+
